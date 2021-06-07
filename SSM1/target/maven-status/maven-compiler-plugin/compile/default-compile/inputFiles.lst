@@ -1,0 +1,16 @@
+D:\javawenjian\SSM1\src\main\java\com\atguigu\crud\dao\DepartmentMapper.java
+D:\javawenjian\SSM1\src\main\java\com\atguigu\crud\bean\Msg.java
+D:\javawenjian\SSM1\src\main\java\com\atguigu\crud\bean\EmployeeExample.java
+D:\javawenjian\SSM1\src\main\java\com\atguigu\crud\bean\Employee.java
+D:\javawenjian\SSM1\src\main\java\com\atguigu\crud\service\DepartmentService.java
+D:\javawenjian\SSM1\src\main\java\com\atguigu\crud\dao\EmployeeMapper.java
+D:\javawenjian\SSM1\src\main\java\com\atguigu\crud\interceptor\LoginInterceptor.java
+D:\javawenjian\SSM1\src\main\java\com\atguigu\crud\test\MapperTest.java
+D:\javawenjian\SSM1\src\main\java\com\atguigu\crud\test\MBGTest.java
+D:\javawenjian\SSM1\src\main\java\com\atguigu\crud\test\MVCTest.java
+D:\javawenjian\SSM1\src\main\java\com\atguigu\crud\bean\DepartmentExample.java
+D:\javawenjian\SSM1\src\main\java\com\atguigu\crud\controller\indexController.java
+D:\javawenjian\SSM1\src\main\java\com\atguigu\crud\bean\Department.java
+D:\javawenjian\SSM1\src\main\java\com\atguigu\crud\controller\DepartmentController.java
+D:\javawenjian\SSM1\src\main\java\com\atguigu\crud\controller\EmployeeController.java
+D:\javawenjian\SSM1\src\main\java\com\atguigu\crud\service\EmployeeService.java
